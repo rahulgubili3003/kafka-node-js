@@ -1,5 +1,4 @@
 # Kafka
-Video Link: [Apache Kafka Crash Course | What is Kafka?](https://youtu.be/ZJJHm_bd9Zo)
 ## Prerequisite
 - Knowledge
   - Node.JS Intermediate level
